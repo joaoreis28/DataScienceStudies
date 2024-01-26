@@ -4,7 +4,7 @@ import pandas as pd
 
 
 #Gradient descent
-
+#refazer
 
 # y = mx + b
 # m é o coeficiente angular, b is y-intercept
