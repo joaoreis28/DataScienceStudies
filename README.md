@@ -1,5 +1,5 @@
 ## Algorithms 
-# Regressão Linear
+# Regressão Linear - Portuguêus
 
 ## Portugues 
 Implementação do método de Regressão Linear em python, usando a ideia do GRADIENTE DESCENDENTE, um algoritmo de otimização que consiste em encontrar valores de parâmetros que minimizam determinada função. 
