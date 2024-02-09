@@ -9,4 +9,4 @@ Implementation of the Linear Regression method in Python, using the idea of GRAD
 
 ## Regressão Logística - Português
 
-## Logistic Regression - Português
+## Logistic Regression - English
