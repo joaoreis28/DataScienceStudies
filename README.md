@@ -8,3 +8,5 @@ Implementation of the Linear Regression method in Python, using the idea of GRAD
 ![GradienteDescendente](https://user-images.githubusercontent.com/130702330/232258727-f716e916-b2f6-46ad-b59a-d8ae4727736e.jpg)
 
 ## Regressão Logística - Português
+
+## Logistic Regression - Português
